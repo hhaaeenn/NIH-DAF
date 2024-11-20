@@ -1,0 +1,130 @@
+
+
+body {
+    background-image:url('bcgitar.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/*gitar*/
+.pro-container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    flex-wrap: wrap;
+}
+
+.lepaul {
+    height: 225px;
+    width: 175px;
+}
+
+.fender {
+    height: 225px;
+    width: 175px;
+    object-fit: cover;
+    object-position: 50% 25%;
+}
+
+
+
+.tele {
+    height: 225px;
+    width: 175px;
+    object-fit: cover;
+    object-position: 50% 25%;
+}
+
+.strato {
+    height: 225px;
+    width: 175px;
+    object-fit: cover;
+    object-position: 50% 25%;
+}
+
+.sch {
+    height: 225px;
+    width: 175px;
+    
+}
+
+.guitar1 {
+    color: rgb(255, 226, 163);
+    background-color: azure;
+    border: 1px solid rgb(125, 125, 125);
+    border-radius: 25px;
+    padding: 10px 12px;
+    cursor: pointer;
+    margin: 15px 0;
+}
+
+.guitar1:hover {
+    box-shadow: 10px 10px 15px rgb(36, 36, 36);
+    transition: 0.3 ease;
+}
+
+.gitar2 {
+    color: rgb(255, 226, 163);
+    background-color: azure;
+    border: 1px solid rgb(125, 125, 125);
+    border-radius: 25px;
+    padding: 10px 12px;
+    cursor: pointer;
+    margin: 15px 0;
+}
+
+.gitar2:hover {
+    box-shadow: 10px 10px 15px rgb(36, 36, 36);
+    transition: 0.3 ease;
+}
+
+.gitar3 {
+    color: rgb(255, 226, 163);
+    background-color: azure;
+    border: 1px solid rgb(125, 125, 125);
+    border-radius: 25px;
+    padding: 10px 12px;
+    cursor: pointer;
+    margin: 15px 0;
+}
+.gitar3:hover {
+    box-shadow: 10px 10px 15px rgb(36, 36, 36);
+    transition: 0.3 ease;
+}
+
+
+
+.gitar4 {
+    color: rgb(255, 226, 163);
+    background-color: azure;
+    border: 1px solid rgb(125, 125, 125);
+    border-radius: 25px;
+    padding: 10px 12px;
+    cursor: pointer;
+    margin: 15px 0;
+}
+
+.gitar4:hover {
+    box-shadow: 10px 10px 15px rgb(36, 36, 36);
+    transition: backgr 0.3 ease;
+    
+}
+
+.gitar5 {
+    color: rgb(255, 226, 163);
+    background-color: azure;
+    border: 1px solid rgb(125, 125, 125);
+    border-radius: 25px;
+    padding: 10px 12px;
+    cursor: pointer;
+    margin: 15px 0;
+}
+
+.gitar5:hover {
+    box-shadow: 10px 10px 15px rgb(36, 36, 36);
+    transition: 0.3 ease;
+}
+
+
+/*drum*/
